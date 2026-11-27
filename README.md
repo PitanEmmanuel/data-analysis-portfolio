@@ -1,3 +1,5 @@
-# data-analysis-portfolio
+# Data Analysis Portfolio
+
 Adepitan Emmanuel | Data Analyst, Lagos, Nigeria
-Data analysis portfolio: projects in Python, SQL and Excel.
+
+Projects in Python, SQL and Excel.
